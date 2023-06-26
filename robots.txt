@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+Sitemap: https://blackfridayhostingdiscounts.com/sitemap.xml
